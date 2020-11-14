@@ -1,0 +1,152 @@
+{% extends "base.html" %}
+{% block content_title %}{% endblock %}
+{% block content %}
+
+{% if output_file == "index.html" %}
+<aside id="featured" class="body">
+  <article>
+    <h1 class="entry-title">Welcome to the NAUFIP project</h1>
+
+    <p>
+      The project aims to give a complex analysis of cluster of
+      philosophical concepts and theories falling under the banner
+      of <em>naturalism</em>. During recent decades, naturalism became
+      a dominant philosophical attitude towards the framing of
+      problems of individual philosophical disciplines (e.g.,
+      philosophy of science, epistemology, ethics, philosophy of mind,
+      social philosophy ...), as well as in relation to
+      metaphilosophical issues. The main aim of our research is to
+      answer the question, whether philosophical naturalism can
+      fulfill the role of an universal framework for describing and
+      explaning the natural, ethico-social and logico-mathematical
+      phenomena.
+    </p>
+
+    <p>
+      A more detailed information about naturalism, its
+      utility, the respects in which it may be seen as problematic,
+      as well as concrete partial goals of our research, can be
+      found in the <a href="{{
+      SITEURL}}/pages/about-the-project.html">About</a> section of the
+      web page.
+    </p>
+
+    <p>
+      To find out about the members of our research team and their
+      field of expertise please visit
+      the <a href="{{SITEURL}}/pages/researchers.html">Researchers</a>
+      section.
+    </p>
+
+    <p>
+      The <a href="{{SITEURL}}/pages/researchers.html">Activities</a> section
+      contains the overview of formal and informal events organized
+      in connection with our research.
+    </p>
+
+    <p>
+      Information about our research publications, as well as
+      presentations given at conferences and on other occasions, can be
+      accessed in
+      the <a href="{{SITEURL}}/pages/publications.html">Publications</a> 
+      section.
+    </p>
+
+    <p>
+      Finally, various media related to our research activities can be
+      found in the <a href="{{SITEURL}}/pages/media.html">Media</a> section.
+    </p>
+
+    <hr width="60%">
+
+    <p>
+      The project is funded by the Slovak Research and Development Agency through Contract no. APVV-18-0178. 
+    </p>
+
+    <p>
+      The project is realized by a team of researchers at the
+      Department of Philosophy and History of Philosophy at Comenius
+      University in Bratislava, with Prof. Mgr. Michal Chabada,
+      PhD. figuring as its principal investigator.
+    </p>
+
+    <br/>
+
+    <div class="flex-container">
+      <div>
+	<b>Contact:</b><br/> 
+	Dpt. of Philosophy and History of Philosophy<br/>
+	Comenius University in Bratislava <br/>
+	Faculty of Arts <br/>
+	Gondova 2, P.O.BOX 32 <br/>
+	814 99 Bratislava <br/>
+	<b>e-mail:</b> <a href="mailto:kfdf@fphil.uniba.sk">kfdf (at)
+	  fphil.uniba.sk</a>
+      </div>
+      <div>
+	<img src="theme/images/loga/logo_fakulty.svg" alt="Faculty of Arts"
+	     style="padding:10px 20px 0px 50px;max-width:130px;">
+      </div>
+      <div>
+	<img src="theme/images/loga/logo_apvv-en.png" alt="Slovak Research and Development Agency"
+	     style="padding:40px 0px 0px 20px;max-width:300px;">
+      </div>
+    </div>
+  </article>
+</aside>
+{% endif %}
+
+{% if articles %}
+    {% for article in articles_page.object_list %}
+
+        {# First item #} 
+        {% if loop.first and not articles_page.has_previous() and not output_file == "index.html" %}  
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
+                    {% include 'article_infos.html' %}{{ article.content }}{% include 'comments.html' %}
+                </article>
+            </aside><!-- /#featured -->
+            {% if loop.length > 1 %}
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+            {% endif %}
+        {# other items #}
+            {% else %}
+	        	    
+            {% if loop.first %}
+            <section id="content" class="body">
+	        {% if output_file == "index.html" %}
+	             <h1>Recent posts</h1>
+		     <hr />
+       	        {% endif %}
+                <ol id="posts-list" class="hfeed" start="{{ articles_paginator.per_page -1 }}">
+            {% endif %}
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+                           title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
+                </header>
+
+                <div class="entry-content">
+                {% include 'article_infos.html' %}
+                {{ article.summary }}
+                <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">read more</a>
+                {% include 'comments.html' %}
+                </div><!-- /.entry-content -->
+            </article></li>
+        {% endif %}
+        {% if loop.last %}
+            {% if loop.length > 1 or articles_page.has_other_pages() %}
+                </ol><!-- /#posts-list -->
+                {% if articles_page.has_other_pages() %}
+                    {% include 'pagination.html' %}
+                {% endif %}
+                </section><!-- /#content -->
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+{% endif %}
+{% endblock content %}
