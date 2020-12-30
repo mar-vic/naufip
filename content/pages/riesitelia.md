@@ -12,7 +12,7 @@ inštitúciami (Universität Wien, FF a FHS UK Praha, FF MU Brno, FF UP
 Olomouc, Filosofický ústav AV ČR Praha, FF OSU Ostrava a FF UP
 Pardubice).
 
-# Prof. Mgr. Michal Chabada, PhD. (zodopovedný riešiteľ)
+# Prof. Mgr. Michal Chabada, PhD. (zodpovedný riešiteľ)
 
 Vedúci projektu Michal Chabada je popredným slovenským odborníkom na
 dejiny a myšlienkové systémy stredovekej filozofie. V rámci projektu
@@ -110,13 +110,30 @@ vedúceho projektu.
 
 **Kontakt:** <martin.nuhlicek@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-martin-nuhlicek-phd/)
 
+# Mgr. Andrea Fábiková, PhD.
+
+Vo svojej výskumnej činnosti v rámci projektu sa Andrea Fábiková zameriava na
+objasnenie pozície evolučného naturalizmu. Jej cieľom je vypracovanie pohľadu na
+viaceré filozofické otázky, ktoré sa týkajú poznania, mysle, jazyka, či morálky
+z evolučnej perspektívy, v konfrontácii s kritikmi takéhoto prístupu. K práci na
+projekte sa pripojila od 1. 9. 2020. 
+
+
+**Kontakt:** <andrea.fabikova@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-andrea-fabikova-phd/)
+
+# Mgr. Katarína Sklutová
+
+Odbornou špecializáciou Kataríny Sklutovej je filozofia mysle, ktorej sa venuje
+v rámci doktorandského štúdia pod vedením prof. Emila Višňovského. Do projektu
+nastúpila od 1. 1. 2021 a svoju pozornosť bude zameriavať na naturalistické
+koncepcie vedomia v súčasných filozofických diskusiách o ľudskej mysli.
+
+**Kontakt:** <katarina.sklutova@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-katarina-sklutova/)
+
 # Mgr. Boris Slovinský 
 
-Boris Slovinský je interným doktorandom na Katedre filozofie a dejín
-filozofie FiF UK. Témou jeho štúdia je „Veda a spoločnosť: sociálne
-dimenzie vedeckého poznania“ pod vedením doc. Mariany
-Szapuovej. K riešeniu projektu prispeje analýzou naturalistických
-a sociálno-konštruktivistických prístupov k problému miesta hodnôt vo
-vede.
+Boris Slovinský bol súčasťou riešiteľského kolektívu do 31. 8. 2020, počas
+svojho doktorandského štúdia pod vedením doc. Mariany Szapuovej. K riešeniu
+projektu prispel analýzou naturalistických a sociálno-konštruktivistických
+prístupov k problému miesta hodnôt vo vede. 
 
-**Kontakt:** <boris.slovinsky@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-boris-slovinsky/)

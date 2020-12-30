@@ -6,6 +6,22 @@ Na tomto mieste budeme postupne zverejňovať informácie o publikáciách,
 ktoré vzniknú v rámci projektu, ako aj prezentácie z konferenčných a
 iných vysúpení riešiteľov a riešiteliek. 
 
+# Monografie
+
+* Buraj, I. (2020): Od prirodzenosti k politike a od politiky k prirodzenosti. Bratislava: Univerzita Komenského v Bratislave.
+
+# Články v indexovaných časopisoch
+
+* Chabada,  M. (2019): [Prirodzenosť, vôľa, cnosť: antinaturalistické črty etiky Jána Dunsa Scota](https://doi.org/10.5817/pf19-2-1966). _Pro-Fil_, 20 (2), 42–57.
+
+* Greif, A. – Šurkala, M. (2020): [Compassionate Use of Psychedelics](https://doi.org/10.1007/s11019-020-09958-z). _Medicine, Health Care and Philosophy_, 23 (3), 485–496. 
+
+* Višňovský, E. (2020): [Naturalizmus v americkej filozofii a klasickom pragmatizme](https://doi.org/10.31577/filozofia.2020.75.9.1). _Filozofia_, 75 (9), 734–746. 
+
+* Chabada, M. (2020): [Prirodzené a morálne dobro alebo zlo: prístup Philippy Footovej](https://doi.org/10.31577/filozofia.2020.75.9.2). _Filozofia_, 75 (9), 747–759. 
+
+* Szapuová, M. – Nuhlíček, M. (2020): [Naturalizmus a skepticizmus](https://doi.org/10.31577/filozofia.2020.75.9.3). _Filozofia_, 75 (9), 760–775. 
+
 # Prezentácie
 
 * [Limity slovenskej filozofie medzivojnového obdobia]({static}/publikacie/prezentacie/limity_svk_filozofie_medzivojnoveho_obdobia(lalikova).pdf) (Erika Lalíková) - prezentácia k prednáške na VI. slovenskom filozofickom kongrese s názvom "Myslieť inak - iné v myslení", ktorý sa konal online v dňoch 21. - 23. 10. 2020.
