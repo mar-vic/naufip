@@ -1,0 +1,195 @@
+a:hover {
+    /* color:#04ac53 !important; */
+    color:#0ca847 !important;
+    /* color: #157347 !important; */
+}
+
+body {
+    font-family: 'Lato', sans-serif !important;
+}
+
+/* SITE NAVIGATION  */
+nav {
+    font-size: 20px;
+}
+
+.navbar-brand {
+    font-size: 30px !important;
+}
+
+.navbar-brand img {
+    height: 34px;
+}
+
+#nav-external-links {
+    margin-right: 16px;
+    font-size: 26px;
+}
+
+#nav-external-links img {
+    width: 26px;
+}
+
+.fa-facebook {
+    padding-top: 8.2px;
+    color: #0d6efd !important;
+}
+
+#lang-switch a {
+    font-weight: bold !important;
+}
+
+#lang-switch button {
+    background-color: #0ca847;
+    font-weight: bold;
+}
+
+#lang-switch a:hover {
+    color: black !important;
+    background-color: #0ca847;
+}
+
+#lang-switch a:active {
+    background-color: #8ac34a;
+}
+
+#lang-switch button:focus {
+    box-shadow: 0 0 0 .25rem #8ac34a;
+}
+
+/* LANDING */
+#landing {
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: 90% auto;
+    background-position: center center;
+}
+
+#landing div {
+    width: 100%;
+    height: 50%;
+}
+
+/* INSTITUTIONS */
+
+#institution-logos {
+    margin-top: 15px;
+}
+
+#faculty-logo {
+    width: 28%
+}
+
+#apvv-logo {
+    width: 74%;
+}
+
+/* POSTS */
+#post-list {
+    margin-top: 10px;
+}
+
+#recent-articles {
+    margin-top: 10px;
+}
+
+.article-teaser {
+    border: none !important;
+}
+
+.article-teaser a {
+    color: black;
+    text-decoration: none;
+}
+
+.article-teaser a:hover p {
+    color: grey !important;
+}
+
+/* FOOTER */
+#contentinfo {
+    margin-top: 60px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#about {
+    margin-bottom: 0px !important;
+}
+
+
+/* PAGE SPECIFIC RULES */
+#page-content {
+    margin-top: 35px;
+}
+
+/* MASONRY */
+.grid {
+    margin-top: 40px;
+}
+
+.grid-item {
+    width: 376px;
+    margin-bottom: 10px;
+}
+
+.fa-envelope {
+    margin-right: 5px;
+}
+
+.fa-id-card {
+    color: #0ca847;
+    margin-left: 20px;
+}
+
+.fa-id-card:hover {
+    /* color: #8ac34a; */
+}
+
+.card img {
+    /* width: 60%; */
+}
+
+/* ACTIVITIES */
+#latest-article {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* ARTICLE */
+.entry-content img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#latest-article img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 70%;
+}
+
+/* Rules for links */
+.naufip-link {
+    text-decoration: none !important;
+    color: #0ca847 !important;
+}
+
+.naufip-link:hover {
+    color: #8ac34a !important;
+}
+
+.green-links a  {
+    color: #0ca847 !important;
+    font-weight: bold;
+}
+
+.green-links a:hover  {
+    color: #8ac34a !important;
+}
+

@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% block content %}
+<section id="content">
+
+    <!-- LANDING -->
+    <div class="container-fluid">
+        <div id="landing" class="container" style="background-image: url('.{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/visual_system_opaque.png');">
+            <div class="display-1 d-flex justify-content-center align-items-end">NAUFIP</div>
+            <div class="fs-3 d-flex justify-content-center">Naturalizmus ako univerzálny filozofický program</div>
+        </div>
+    </div>
+
+    <!-- PROJECT DESCRIPTION -->
+    <div class="container">
+        <h1 class="display-5">Vítame Vás na stránke projektu NAUFIP</h1>
+        <p class="lead">
+            Projekt je zameraný na komplexnú analýzu myšlienkového prúdu
+            naturalizmu, ktorý sa v ostatných dekádach stal dominantným
+            prísupom vo filozofii, jednak vo vzťahu k problémom
+            riešených v rámci jednotlivých filozofických disciplín
+            (filozofie vedy, epistemológie, etiky, filozofie mysle,
+            sociálnej filozofie a ďalších), ako aj k filozofii samotnej.
+            Hlavným cieľom nášho výskumu je zodpovedanie otázky, či môže
+            naturalizmus uspieť ako univerzálny rámec filozofického
+            opisu a vysvetľovania prírodných, etických, spoločenských a
+            logicko-matematických javov.
+        </p>
+
+        <!-- INSTITUTIONAL AFFILIATIONS -->
+        <div id="institutions" style="padding-top:60px;padding-left:40px;padding-right:40px;padding-bottom:10px;">
+            <div class="row section-divider" style="margin-bottom:10px;">
+                <div class="col-auto d-flex align-items-center" style="padding-right:0px;"><b>INŠTITUCIONÁLNE KRYTIE</b></div>
+                <div class="col" style=""><hr></div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    Projekt bol podporený <a class="naufip-link" href="https://www.apvv.sk/">Agentúrou na podporu výskumu a vývoja</a> na
+                    základe Zmluvy č. APVV-18-0178. Riešiteľským pracoviskom projektu je <a class="naufip-link" href="https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/">Katedra filozofie a dejín filozofie</a> na Filozofickej fakulte Univerzity Komenského v
+                    Bratislave, pod vedením zodpovedného riešiteľa prof. Mgr. Michala Chabadu, PhD.
+                </div>
+            </div>
+            <div id="institution-logos" class="row">
+                <div class="col-7 d-flex justify-content-end align-items-center">
+                    <img id="apvv-logo" src=".{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo_apvv.png" alt="Logo APVV" />
+                </div>
+                <div class="col-5 d-flex align-items-center">
+                    <img id="faculty-logo" src=".{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/logo_fakulty.svg" alt="Logo fakulty"  />
+                </div>
+            </div>
+        </div>
+
+        <!-- RECENT ARTICLES -->
+        <div id="recent-articles" style="padding-top:10px;padding-left:40px;padding-right:40px;">
+            <div class="row section-divider">
+                <div class="col-auto d-flex align-items-center" style="padding-right:0px;"><b>NAJNOVŠIE ČLÁNKY</b></div>
+                <div class="col" style=""><hr></div>
+            </div>
+
+            <!-- LIST OF POSTS -->
+            <div id="post-list">
+                <div class="row">
+                    {% for article in articles_page.object_list %}
+                    <div class="col-lg-6">
+                        <article class="hentry">
+                            <div class="card article-teaser">
+                                <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+                                    <div class="card-body">
+                                        <h3 class="card-title">{{ article.title }}</h3>
+                                        <p><i class="far fa-calendar-alt"></i><b
+            style="margin-left:5px;">{{ article.date|strftime('%d %b %Y') }}</b></p>
+                                        <p class="card-text">{{ article.summary }}</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </article>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section><!-- /#content -->
+{% endblock content %}

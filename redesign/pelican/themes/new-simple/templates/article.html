@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% block html_lang %}{{ article.lang }}{% endblock %}
+
+{% block title %}{{ SITENAME }} - {{ article.title|striptags  }}{% endblock %}
+
+{% block head %}
+  {{ super() }}
+
+  {% import 'translations.html' as translations with context %}
+  {% if translations.entry_hreflang(article) %}
+    {{ translations.entry_hreflang(article) }}
+  {% endif %}
+
+  {% if article.description %}
+    <meta name="description" content="{{article.description}}" />
+    {% endif %}
+
+    {% for tag in article.tags %}
+    <meta name="tags" content="{{tag}}" />
+    {% endfor %}
+
+{% endblock %}
+
+{% block content %}
+<section id="content" class="body container" style="margin-top:30px;margin-bottom:75px;">
+  <header>
+      <div class="display-4">
+          {{ article.title }}
+      </div>
+      {% import 'translations.html' as translations with context %}
+      {{ translations.translations_for(article) }}
+  </header>
+  <footer class="post-info">
+      <p class="text-muted">
+          <i class="far fa-calendar-alt"></i>
+          <b style="margin-left:5px;">{{ article.date|strftime('%d %b %Y') }}</b>
+      </p>
+  </footer><!-- /.post-info -->
+  <div class="entry-content lead">
+
+      {{ article.content }}
+
+      <!-- Show the gallery, if there is one -->
+      {% if article.album %}
+
+      <div id="carouselGallery" class="carousel slide" data-bs-ride="carousel" data-bs-interval="false">
+          <div class="carousel-inner" style="background-color:black;">
+
+              {% set first_photo = article.galleryimages[0] %}
+              {% set other_photos = article.galleryimages[1:] %}
+
+              <div class="carousel-indicators">
+
+                  <button type="button" data-bs-target="#carouselGallery" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+
+                  {% for photo in other_photos %}
+                  <button type="button" data-bs-target="#carouselGallery" data-bs-slide-to="{{ loop.index }}" aria-label="Slide {{ loop.index }}"></button>
+                  {% endfor %}
+
+              </div>
+
+              <!-- Slide for the first photo -->
+              <div class="carousel-item active">
+                  <img src="{{ SITEURL }}/images/gallery/{{ article.album }}/{{ first_photo }}" class="d-block" alt="..." style="height:500px;margin-top:0px;margin-bottom:0px">
+              </div>
+
+
+              <!-- Slides for the rest of photos -->
+              {% for photo in other_photos %}
+              <div class="carousel-item">
+                  <img src="{{ SITEURL }}/images/gallery/{{ article.album }}/{{ photo }}" class="d-block" alt="..." style="height:500px;margin-top:0px;margin-bottom:0px;">
+              </div>
+              {% endfor %}
+
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselGallery" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselGallery" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+          </button>
+      </div>
+
+      {% endif %}
+
+  </div><!-- /.entry-content -->
+</section>
+
+<script>
+ jQuery('a.gallery').colorbox();
+</script>
+{% endblock %}

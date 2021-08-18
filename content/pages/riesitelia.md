@@ -56,8 +56,6 @@ obohatí analýzou vzťahu medzi biológiou človeka a jeho sociálnym
 
 # Doc. Mgr. Erika Lalíková, PhD. 
 
-
-
 Profesionálnou orientáciou Eriky Lalíkovej je skúmanie dejín
 slovenskej a českej filozofie. Aj v rámci nich sa vyskytujú
 naturalistické inšpirácie, ktorých analýza bude hlavným predmetom jej

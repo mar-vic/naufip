@@ -1,0 +1,67 @@
+a:hover {
+    color:#04ac53 !important;
+}
+
+/* .btn { */
+/*     background-color:#04ac53 !important; */
+/*     color: black !important; */
+/* } */
+
+.dropdown-item:hover {
+    color: black !important;
+}
+
+/* SITE NAVIGATION  */
+nav {
+    font-size: 20px;
+}
+
+.navbar-brand {
+    font-size: 30px !important;
+}
+
+.navbar-brand img {
+    height: 34px;
+}
+
+#nav-external-links {
+    margin-right: 16px;
+    font-size: 26px;
+}
+
+#nav-external-links img {
+    width: 26px;
+}
+
+
+.fa-facebook {
+    padding-top: 8.2px;
+    color: #0d6efd !important;
+}
+
+
+/* LANDING */
+#landing {
+    height: 60vh;
+    background-image: url('./images/visual_system_opaque.png');
+    background-repeat: no-repeat;
+    background-size: 90% auto;
+    background-position: center center;
+}
+
+#landing div {
+    width: 100%;
+    height: 50%;
+}
+
+#institution-logos {
+    margin-top: 15px;
+}
+
+#faculty-logo {
+    width: 28%
+}
+
+#apvv-logo {
+    width: 74%;
+}

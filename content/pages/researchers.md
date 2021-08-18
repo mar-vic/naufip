@@ -124,16 +124,36 @@ deputy.
 **Contact:** <martin.nuhlicek@uniba.sk> **|**
 [Profile](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-martin-nuhlicek-phd/) 
 
-# Mgr. Boris Slovinský
+# Mgr. Andrea Fábiková, PhD.
 
-Boris Slovinský is a doctoral student of the Department of Philosophy
-and History of Philosophy FA CU. The topic of his doctoral research
-is "Science and Society: Social Dimensions of Scientific
-Knowledge". His contribution to the research project consists in the
-analysis of naturalistic and socio-constructivist approaches to the
-problem of the role of values in science.
+The research of Andrea Fabikova is directed towards the clarification of
+theoretical position of evolutionary naturalism. Her aim is to develop
+philosophical positions related to cogntion, language or morals informed by
+evolutionary perspective in confrontation with critics of this kind of approach. She
+became a member of our team on the september 2020.
 
-**Contact:** <boris.slovinsky@uniba.sk> **|**
-[Profile](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-boris-slovinsky/) 
+**Kontakt:** <andrea.fabikova@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-andrea-fabikova-phd/)
+
+# Mgr. Katarína Sklutová
+
+Katarina Sklutova is a doctoral student 
+
+'s specializes in the area of philosophy of mindThe specialization of Katarina Sklutova is the philosophy of mind 
+
+Odbornou špecializáciou Kataríny Sklutovej je filozofia mysle, ktorej sa venuje
+v rámci doktorandského štúdia pod vedením prof. Emila Višňovského. Do projektu
+nastúpila od 1. 1. 2021 a svoju pozornosť bude zameriavať na naturalistické
+koncepcie vedomia v súčasných filozofických diskusiách o ľudskej mysli.
+
+**Kontakt:** <katarina.sklutova@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-katarina-sklutova/)
+
+# Mgr. Boris Slovinský 
+
+Boris Slovinský bol súčasťou riešiteľského kolektívu do 31. 8. 2020, počas
+svojho doktorandského štúdia pod vedením doc. Mariany Szapuovej. K riešeniu
+projektu prispel analýzou naturalistických a sociálno-konštruktivistických
+prístupov k problému miesta hodnôt vo vede.
+
+ 
 
  

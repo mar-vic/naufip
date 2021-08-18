@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block html_lang %}{{ page.lang }}{% endblock %}
+
+{% block title %}{{ SITENAME }} - {{ page.title|striptags }}{%endblock%}
+
+{% block head %}
+  {{ super() }}
+
+  {% import 'translations.html' as translations with context %}
+  {% if translations.entry_hreflang(page) %}
+    {{ translations.entry_hreflang(page) }}
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+<div id="page-content" class="container">
+    <div class="container-fluid">
+        <div id="landing" class="container" style="background-image: url('{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/visual_system_opaque.png');">
+            <div class="display-1 d-flex justify-content-center align-items-end">{{ page.title }}</div>
+        </div>
+    </div>
+    {% import 'translations.html' as translations with context %}
+    {{ translations.translations_for(page) }}
+
+    {{ page.content }}
+
+    {% if page.modified %}
+        <p>
+        Last updated: {{ page.locale_modified }}
+        </p>
+    {% endif %}
+</div>
+{% endblock %}

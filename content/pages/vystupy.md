@@ -24,6 +24,11 @@ iných vysúpení riešiteľov a riešiteliek.
 
 # Prezentácie
 
+
+* [Na čo odkazuje pojem "rod" vo feministickej filozofii]({static}/publikacie/prezentacie/pojem_rodu_vo_feministickej_filozofii(szapuova).pdf) (Mariana Szapuová) - prezentácia k príspevku, ktorý odznel 08. decembra 2020 na workshope "O Ľudskej/Ženskej Prirodzenosti, Naturalistické a Konštruktivistické Prístupy".
+
+* [Kritika sociálni konstrukce genderu]({static}/publikacie/prezentacie/kritika_socialni_konstrukce_genderu(dvorak).pdf) (Petr Dvořák) - prezentácia k príspevku, ktorý odznel 08. decembra 2020 na workshope "O Ľudskej/Ženskej Prirodzenosti, Naturalistické a Konštruktivistické Prístupy".
+
 * [Limity slovenskej filozofie medzivojnového obdobia]({static}/publikacie/prezentacie/limity_svk_filozofie_medzivojnoveho_obdobia(lalikova).pdf) (Erika Lalíková) - prezentácia k prednáške na VI. slovenskom filozofickom kongrese s názvom "Myslieť inak - iné v myslení", ktorý sa konal online v dňoch 21. - 23. 10. 2020.
 
 * [Naturalizmus ako "druhá filozofia"]({static}/publikacie/prezentacie/naturalizmus_ako_druha_filozofia(maco).pdf) (Róbert Maco) - prezentácia k prednáške na VI. slovenskom filozofickom kongrese s názvom "Myslieť inak - iné v myslení", ktorý sa konal online v dňoch 21. - 23. 10. 2020.
