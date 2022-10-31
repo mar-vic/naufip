@@ -76,21 +76,21 @@ JINJA_ENVIRONMENT = {
 }
 
 I18N_SUBSITES = {
-        'en': {
-            'THEME': 'themes/notmyidea-en',
+    'en': {
+        'THEME': 'themes/notmyidea-en',
 	    'SITENAME': 'NAUFIP',
-            'SITESUBTITLE': 'Naturalism as an Universal Philosophical Programme',
-            'MENUITEMS': [('Home','/en'),
-                          ('About','/en/pages/about-the-project.html'),
-                          ('Researchers','/en/pages/researchers.html'),
-                          ('Activities', '/en/category/activities.html'),
-                          ('Publications','/en/pages/publications.html'),
-                          ('Media','/en/category/media.html'),
-                          ('SK','/')],
-            'LINKS': (('Department of Philosophy and History of Philosophy',
-                       'https://fphil.uniba.sk/en/departments-and-research-centres/department-of-philosophy-and-history-of-philosophy/'),
-                      ('Slovak Research and Development Agency',
-                       'https://www.apvv.sk/?lang=en'),
-                      ('Follow us on Facebook', 'https://www.facebook.com/kfdf.fif.uk/'),),
-	    }
+        'SITESUBTITLE': 'Naturalism as an Universal Philosophical Programme',
+        'MENUITEMS': [('Home','/en'),
+                      ('About','/en/pages/about-the-project.html'),
+                      ('Researchers','/en/pages/researchers.html'),
+                      ('Activities', '/en/category/activities.html'),
+                      ('Publications','/en/pages/publications.html'),
+                      ('Media','/en/category/media.html'),
+                      ('SK','/')],
+        'LINKS': (('Department of Philosophy and History of Philosophy',
+                   'https://fphil.uniba.sk/en/departments-and-research-centres/department-of-philosophy-and-history-of-philosophy/'),
+                  ('Slovak Research and Development Agency',
+                   'https://www.apvv.sk/?lang=en'),
+                  ('Follow us on Facebook', 'https://www.facebook.com/kfdf.fif.uk/'),),
 	}
+}

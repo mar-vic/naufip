@@ -124,36 +124,26 @@ deputy.
 **Contact:** <martin.nuhlicek@uniba.sk> **|**
 [Profile](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-martin-nuhlicek-phd/) 
 
-# Mgr. Andrea Fábiková, PhD.
+# Mgr. Roman Hloch, PhD. 
 
-The research of Andrea Fabikova is directed towards the clarification of
-theoretical position of evolutionary naturalism. Her aim is to develop
-philosophical positions related to cogntion, language or morals informed by
-evolutionary perspective in confrontation with critics of this kind of approach. She
-became a member of our team on the september 2020.
+The area of expertise of Roman Hloch is in the history of the philosophy of anitiquity, especially the philosophy of Aristotle. He bacame a member of our team on 1.10.2021 and will dedicate his efforts to the exploration of possible naturalistic implications in Aristotelian ethics from the historical point of view. He will also explore various contemporary neoaristotelian theories of virtues. In both domains, he will be concerned with metaethical and normative questions.
 
-**Kontakt:** <andrea.fabikova@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-andrea-fabikova-phd/)
+**Kontakt:** <roman.hloch@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-roman-hloch-phd/)
 
 # Mgr. Katarína Sklutová
 
-Katarina Sklutova is a doctoral student 
-
-'s specializes in the area of philosophy of mindThe specialization of Katarina Sklutova is the philosophy of mind 
-
-Odbornou špecializáciou Kataríny Sklutovej je filozofia mysle, ktorej sa venuje
-v rámci doktorandského štúdia pod vedením prof. Emila Višňovského. Do projektu
-nastúpila od 1. 1. 2021 a svoju pozornosť bude zameriavať na naturalistické
-koncepcie vedomia v súčasných filozofických diskusiách o ľudskej mysli.
+Katarina Sklutova is a doctoral student supervised by prof. Emil Višňovský. She specializes in the area of the philosophy of mind. She became a member of our tema on the september 2020 and will focus on the naturalistic conceptions of consciousness in contemporary discussions about human mind.
 
 **Kontakt:** <katarina.sklutova@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-katarina-sklutova/)
 
+# Mgr. Andrea Fábiková, PhD.
+
+The research of Andrea Fabikova was directed towards the clarification of
+theoretical position of evolutionary naturalism. Her aim was to develop
+philosophical positions related to cogntion, language or morals informed by
+evolutionary perspective in confrontation with critics of this kind of approach. She
+was a member of our team from 1. 9. 2020 to 31. 8. 2021.
+
 # Mgr. Boris Slovinský 
 
-Boris Slovinský bol súčasťou riešiteľského kolektívu do 31. 8. 2020, počas
-svojho doktorandského štúdia pod vedením doc. Mariany Szapuovej. K riešeniu
-projektu prispel analýzou naturalistických a sociálno-konštruktivistických
-prístupov k problému miesta hodnôt vo vede.
-
- 
-
- 
+Boris Slovinský was a member of our team from 31. 8. 2020, while under the supervision of doc. Mariana Szapuová. His contribution to the project was an analysis of naturalistic and socio-constructivist approaches to the problem of role of values in the science.

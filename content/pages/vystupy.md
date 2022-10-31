@@ -10,7 +10,33 @@ iných vysúpení riešiteľov a riešiteliek.
 
 * Buraj, I. (2020): Od prirodzenosti k politike a od politiky k prirodzenosti. Bratislava: Univerzita Komenského v Bratislave.
 
+# Mimoriadne číslo Filosofického časopisu
+
+Chabada, M. – Maco, R. (eds.) (2021): [Varieties of Naturalism in Contemporary Philosophy](https://filosofia.flu.cas.cz/publikace/578). Praha: Filosofia. ISBN 978-80-7007-699-6.
+
+## Obsah
+
+* Chabada, M.: Moral Facts as Facts of Life. (10-27)
+
+* Szapuová, M.: Quinean Inspiration in Feminist Epistemology: On the Potential Alliance between Naturalism and Feminism. (28-43)
+
+* Maco, R.: Naturalism and the Task of Philosophy. (44-61)
+
+* Fábiková, A.: Adaptivity and Truth. A Critique of Plantinga’s Reasoning against Evolutionary Reliabilism. (62-74)
+
+* Giladi, P.: Prolegomenon to Any Future Critical Responses to Naturalism. (75-94)
+
 # Články v indexovaných časopisoch
+
+* Chabada,  M. (2021): Prirodzené morálne cnosti podľa Jána Dunsa Scota. Filosofický časopis, 69 (2), 347-363.
+
+* Nuhlíček, M. (2021): Kooperatívny naturalizmus. Filozofia, 76 (9), 647-660. 
+
+* Višňovský, E. (2021): Naturalistické koncepcie v súčasnom neopragmatizme. Filozofia, 76 (9), 661-673. 
+
+* Sklutová, K. (2021): Dennetova naturalistická koncepcia vedomej skúsenosti. Filozofia, 76 (9), 674-687. 
+
+* Greif, A. (2021): Parfit on Moral Disagreement and The Analogy Between Morality and Mathematics. Filozofia, 76 (9), 688-703. 
 
 * Chabada,  M. (2019): [Prirodzenosť, vôľa, cnosť: antinaturalistické črty etiky Jána Dunsa Scota](https://doi.org/10.5817/pf19-2-1966). _Pro-Fil_, 20 (2), 42–57.
 
@@ -24,6 +50,47 @@ iných vysúpení riešiteľov a riešiteliek.
 
 # Prezentácie
 
+* [Ľudská prirodzenosť a morálka: pohľad D. Huma]({static}/publikacie/prezentacie/prirodzenost_moralka_hume(szapuova).pdf) (Mariana Szapuová) - prezentácia k príspevku, ktorý odznel na konferencii Etické teórie - neetická prax, organizovanej SFZ pri SAV v dňoch 19. - 21. 10. 2022 v Starej Lesnej.
+
+* [Etické implikácie iluzionistickej pozície vedomia]({static}/publikacie/prezentacie/moralka_iluzionizmus(sklutova).pdf) (Katarína Sklutová) - prezentácia k príspevku, ktorý odznel na konferencii Etické teórie - neetická prax, organizovanej SFZ pri SAV v dňoch 19. - 21. 10. 2022 v Starej Lesnej.
+
+* [Morálka z pohľadu naturalizmu]({static}/publikacie/prezentacie/moralka_podla_naturalizmu(maco).pdf) (Róbert Maco) - prezentácia k príspevku, ktorý odznel na konferencii _Etické teórie - neetická prax_, organizovanej SFZ pri SAV v dňoch 19. - 21. 10. 2022 v Starej Lesnej.
+
+* [Prirodzený zákon a vybrané príklady jeho aplikácie - Ján Duns Scotus]({static}/publikacie/prezentacie/aplikacie_prirodzeneho_zakona_scotus(chabada).pdf) (Michal Chabada) - prezentácia k príspevku, ktorý odznel na konferencii _Etické teórie - neetická prax_, organizovanej SFZ pri SAV v dňoch 19. - 21. 10. 2022 v Starej Lesnej.
+
+* [Inštrumentálna normativita naturalizovanej epistemológie]({static}/publikacie/prezentacie/instrumentalna_normativita(nuhlicek).pdf) (Martin Nuhlíček) - prezentácia k príspevku, ktorý odznel na XXVI. slovensko-českom sympóziu o analytickej filozofii, konanom v dňoch 7. - 9. 9. 2022 v Prahe.
+
+* [Neredukcionistické koncepcie naturalizmu]({static}/publikacie/prezentacie/nonreductionist_conception_of_naturalism(visnovsky).pdf) (Emil Všňovský) - prezentácia k príspevku, ktorý odznel 26. mája 2022 na workshope "Pragmatistické a nereduktivne koncepcie naturalizmu"
+
+* [Pragmatistické koncepcie naturalizmu]({static}/publikacie/prezentacie/pragmatist_conceptions_of_naturalism(giladi).pdf) (Paul Giladi) -  prezentácia k príspevku, ktorý odznel 26. mája 2022 na workshope "Pragmatistické a nereduktivne koncepcie naturalizmu"
+
+* [Naturalizmus: Filozofia do neistoty]({static}/publikacie/prezentacie/naturalizmus_filozofia_neistoty(maco).pdf) (Róbert Maco) -  prezentácia k prednáške na konferencii Slovenského filozofického združenia pri SAV "Filozofické cesty z neistoty – podoby zodpovednosti", ktorá sa konala online v dňoch 20. - 22. 10. 2021.
+
+* [Existují kvália? A lze s nimi budovat etiku pro obecnou umělou inteligenci?](https://youtu.be/0OVqEz5FVd0) (Antonín Dolák) - prezentácia k príspevku, ktorý odznel 2. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice. 
+
+* [Companions in Guilt: Ethics and Mathematics]({static}/publikacie/prezentacie/companions_in_guilt(greif).pdf) (Adam Greif) - prezentácia k príspevku, ktorý odznel 2. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice. 
+
+* [Nereduktívny naturalizmus]({static}/publikacie/prezentacie/nereduktivny_naturalizmus(visnovsky).pdf) (Emil Višňovský) - prezentácia k príspevku, ktorý odznel 2. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice.
+
+* [Problémy ontologického naturalizmu]({static}/publikacie/prezentacie/problemy_ontologickeho_naturalizmu(maco).pdf) (Róbert Maco) - prezentácia k príspevku, ktorý odznel 2. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice.
+
+* [Naturalismus a modalita]({static}/publikacie/prezentacie/naturalizmus_modalita(tvrdy).pdf) (Filip Tvrdý) - prezentácia k príspevku, ktorý odznel 2. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice.
+
+* [Politická ekológia a jej nové výzvy]({static}/publikacie/prezentacie/latour_politicka_ekologia(buraj).pdf) (Ivan Buraj) - prezentácia k príspevku, ktorý odznel 2. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice.
+
+* [Previazanosť literárnej a filozofickej interpretácie naturalizmu]({static}/publikacie/prezentacie/literatura_filozofia_naturalizmus(lalikova).pdf) (Erika Lalíková) - prezentácia k príspevku, ktorý odznel 2. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice.
+
+* [Naturalistické tendencie v Dennettovej filozofii vedomia]({static}/publikacie/prezentacie/naturalizmus_dennet_vedomie(sklutkova).pdf) (Katarína Sklutová) - prezentácia k príspevku, ktorý odznel 2. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice. 
+
+* [Morálne fakty v neoaristotelovskom etickom naturalizme]({static}/publikacie/prezentacie/moralne_fakty_aristoteles(chabada).pdf) (Michal Chabada) - prezentácia k príspevku, ktorý odznel 3. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice.
+
+* [Naturalizovaná etika: od deskripce k normativitě]({static}/publikacie/prezentacie/naturalizovana_etika(chudarkova).pdf) (Petra Chudárková) - prezentácia k príspevku, ktorý odznel 3. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice.
+
+* [Normatívna dimenzia naturalistickej epistemológie]({static}/publikacie/prezentacie/normativita_naturalizmus_epistemologia(nuhlicek).pdf) (Martin Nuhlíček) - prezentácia k príspevku, ktorý odznel 3. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice.
+
+* [Aristotelovo naturalistické měřítko etických hodnot]({static}/publikacie/prezentacie/naturalizmus_etika_aristoteles(hloch).pdf) (Roman Hloch) - prezentácia k príspevku, ktorý odznel 3. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice.
+
+* [Filozofie, apriorní poznání a naturalismus]({static}/publikacie/prezentacie/filosofie_apriori_naturalismus(belohrad).pdf) (Radim Bělohrad) - prezentácia k príspevku, ktorý odznel 3. 9. 2021 na projektovej konferencii Naturalistický obraz sveta: výzvy a hranice. 
 
 * [Na čo odkazuje pojem "rod" vo feministickej filozofii]({static}/publikacie/prezentacie/pojem_rodu_vo_feministickej_filozofii(szapuova).pdf) (Mariana Szapuová) - prezentácia k príspevku, ktorý odznel 08. decembra 2020 na workshope "O Ľudskej/Ženskej Prirodzenosti, Naturalistické a Konštruktivistické Prístupy".
 

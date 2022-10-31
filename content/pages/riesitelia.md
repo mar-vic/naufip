@@ -108,16 +108,12 @@ vedúceho projektu.
 
 **Kontakt:** <martin.nuhlicek@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-martin-nuhlicek-phd/)
 
-# Mgr. Andrea Fábiková, PhD.
+# Mgr. Roman Hloch, PhD. 
 
-Vo svojej výskumnej činnosti v rámci projektu sa Andrea Fábiková zameriava na
-objasnenie pozície evolučného naturalizmu. Jej cieľom je vypracovanie pohľadu na
-viaceré filozofické otázky, ktoré sa týkajú poznania, mysle, jazyka, či morálky
-z evolučnej perspektívy, v konfrontácii s kritikmi takéhoto prístupu. K práci na
-projekte sa pripojila od 1. 9. 2020. 
+Roman Hloch sa odborne zameriava na dejiny antickej filozofie, predovšetkým na filozofiu Aristotela. Jeho témou v rámci projektu, ku ktorému sa pripojil od 1. 10. 2021, je preskúmanie možných naturalistických implikácií v Aristotelovej etike z historickej perspektívy, ale tiež rôzne stanoviská súčasných neoaristotelovských teórií cností. V oboch prípadoch sú predmetom jeho skúmania metaetické a normatívne otázky.
 
+**Kontakt:** <roman.hloch@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-roman-hloch-phd/)
 
-**Kontakt:** <andrea.fabikova@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-andrea-fabikova-phd/)
 
 # Mgr. Katarína Sklutová
 
@@ -127,6 +123,10 @@ nastúpila od 1. 1. 2021 a svoju pozornosť bude zameriavať na naturalistické
 koncepcie vedomia v súčasných filozofických diskusiách o ľudskej mysli.
 
 **Kontakt:** <katarina.sklutova@uniba.sk> **|** [Profil](https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/clenovia-katedry/mgr-katarina-sklutova/)
+
+# Mgr. Andrea Fábiková, PhD.
+
+Vo svojej výskumnej činnosti v rámci projektu sa Andrea Fábiková zameriavala na objasnenie pozície evolučného naturalizmu. Tematizovala viaceré filozofické otázky na priesečníku poznania, mysle, jazyka, či morálky z evolučnej perspektívy, i v konfrontácii s kritikmi takéhoto prístupu. Na projekte pracovala od 1. 9. 2020 do 31. 8. 2021. 
 
 # Mgr. Boris Slovinský 
 

@@ -1,0 +1,3 @@
+[submodule "hugo-migration/naufip/themes/ananke"]
+	path = hugo-migration/naufip/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
