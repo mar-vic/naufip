@@ -51,6 +51,10 @@ Chabada, M. – Maco, R. (eds.) (2021): [Varieties of Naturalism in Contemporary
 
 # Presentations
 
+* [Two Models - Two Ways of Construing the Relationship Between Nature and Society]({static}/publikacie/prezentacie/modely_riesenia_vztahu_spol_prirody(buraj).pdf) (Ivan Buraj) - presentation accompanying the talk given on 11. 11. 2022 at the workshop _Society and Nature_.
+
+* [Two Models of Politically Organised Relationship Between Society and Nature: Industrial and Environental Democracy]({static}/publikacie/prezentacie/modely_politickeho_organizovania_spol_prirody(stahel).pdf) (Richard Sťahel) - presentation accompanying the talk given on 11. 11. 2022 at the workshop _Society and Nature_.
+
 * [Human Nature and Morality: According to D. Hume]({static}/publikacie/prezentacie/prirodzenost_moralka_hume(szapuova).pdf) (Mariana Szapuová) - presentation to talk given at the conference _Ethical Theories - Unethical Praxis_ organized by SFZ SAV on 19. - 21. 10 2022 in Stará Lesná.
 
 * [Ethical Implication of Ilusionist Conception of Consciousness]({static}/publikacie/prezentacie/eticke_implikacie_iluzionizmu(sklutova).pdf) (Katarína Sklutová) - presentation to talk given at the conference _Ethical Theories - Unethical Praxis_ organized by SFZ SAV on 19. - 21. 10 2022 in Stará Lesná.

@@ -50,6 +50,10 @@ Chabada, M. – Maco, R. (eds.) (2021): [Varieties of Naturalism in Contemporary
 
 # Prezentácie
 
+* [Dva modely - dva spôsoby riešenia vzťahu spoločnosti a prírody]({static}/publikacie/prezentacie/modely_riesenia_vztahu_spol_prirody(buraj).pdf) (Ivan Buraj) - prezentácia k príspevku, ktorý odznel 11. 11. 2022 na workshope "Spoločnosť a príroda".
+
+* [Dva modely politicky organizovaného vzťahu spoločnosti a prírody: Industriálna a environmentálna demokracia]({static}/publikacie/prezentacie/modely_politickeho_organizovania_spol_prirody(stahel).pdf) (Richard Sťahel) - prezentácia k príspevku, ktorý odznel 11. 11. 2022 na workshope "Spoločnosť a príroda".
+
 * [Ľudská prirodzenosť a morálka: pohľad D. Huma]({static}/publikacie/prezentacie/prirodzenost_moralka_hume(szapuova).pdf) (Mariana Szapuová) - prezentácia k príspevku, ktorý odznel na konferencii Etické teórie - neetická prax, organizovanej SFZ pri SAV v dňoch 19. - 21. 10. 2022 v Starej Lesnej.
 
 * [Etické implikácie iluzionistickej pozície vedomia]({static}/publikacie/prezentacie/moralka_iluzionizmus(sklutova).pdf) (Katarína Sklutová) - prezentácia k príspevku, ktorý odznel na konferencii Etické teórie - neetická prax, organizovanej SFZ pri SAV v dňoch 19. - 21. 10. 2022 v Starej Lesnej.
